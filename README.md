@@ -14,4 +14,4 @@ A class created to simplify implementations that involve directions.
 
 Add the following line to your `manifest.json` found in the "Packages" folder
 
-`    "com.softboiledgames.unityxtension": "git@github.com:SoftBoiledGames/Direction.git"`
+`    "com.softboiledgames.direction": "git@github.com:SoftBoiledGames/Direction.git"`
