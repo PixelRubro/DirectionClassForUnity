@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace SoftBoiledGames.Direction
+namespace PixelSparkStudio.Direction
 {
     public enum EDirection
     {
