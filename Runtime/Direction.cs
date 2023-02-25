@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PixelSparkStudio.Direction
+namespace PixelSpark.Direction
 {
     public enum EDirection
     {
