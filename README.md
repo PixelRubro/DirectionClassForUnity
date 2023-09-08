@@ -1,4 +1,5 @@
 # Direction
+
 A class created to simplify implementations that involve directions.
 
 ## Installing
@@ -8,10 +9,10 @@ A class created to simplify implementations that involve directions.
 - Open the Package Manager window
 - Click on the "plus" sign
 - Select "Add package from git URL"
-- Paste this repo's SSH link (git@github.com:PixelSparkStudio/Direction.git)
+- Paste this repo's SSH link (<git@github.com>:VermillionVanguard/Direction.git)
 
 ### Editing manifest file
 
 Add the following line to your `manifest.json` found in the "Packages" folder
 
-`    "com.pixelsparkstudio.direction": "git@github.com:PixelSparkStudio/Direction.git"`
+`"com.vermillionvanguard.direction": "git@github.com:VermillionVanguard/Direction.git"`

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace PixelSpark.Direction
+namespace VermillionVanguard.Direction
 {
     public enum EDirection
     {
