@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace VermillionVanguard.Direction
+namespace PixelRouge.Direction
 {
     public enum EDirection
     {
